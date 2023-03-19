@@ -14,6 +14,9 @@ main {
     background-size: cover;
 }
 
+main {
+    padding: 20px;
+}
 
 #legenda {
     font-family: 'Ubuntu', sans-serif;
