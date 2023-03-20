@@ -94,6 +94,10 @@ table {
     text-align: center;
 }
 
+#dia4, #dia2, #dia19, #dia20, #dia24 {
+    background-color: lightgray;
+}
+
 thead>tr>td {
     padding: 10px;
 }
