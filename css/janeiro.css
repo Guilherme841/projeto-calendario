@@ -32,7 +32,7 @@ main {
 #containerCelendario {
     font-family: 'Dancing Script', cursive;
     margin: auto;
-    width: 400px;
+    width: 310px;
     background-color: white;
     border-radius: 10px 10px 0px 0px;
     box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.295);
@@ -67,8 +67,8 @@ main {
 }
 
 #calendario {
-    width: 400px;
-    height: 270px;
+    width: 310px;
+    height: 250px;
 }
 
 #dias {
