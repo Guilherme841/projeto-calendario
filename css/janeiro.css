@@ -6,7 +6,7 @@
 }
 
 main {
-    background-image: url(../imagens/background-branco.jpg);
+    background-image: url(../imagens/WhatsApp\ Image\ 2023-03-19\ at\ 21.01.14.jpeg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -15,7 +15,7 @@ main {
 
 #legenda {
     font-family: 'Ubuntu', sans-serif;
-    background-color: rgb(175, 173, 173);
+    background-color: rgba(175, 173, 173, 0.836);
     padding: 20px;
     margin: auto;
     color: rgba(0, 0, 0, 0.726);
@@ -33,7 +33,7 @@ main {
     font-family: 'Dancing Script', cursive;
     margin: auto;
     width: 310px;
-    background-color: rgb(175, 173, 173);
+    background-color: rgba(175, 173, 173, 0.842);
     border-radius: 10px 10px 0px 0px;
     box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.295);
     color: rgba(0, 0, 0, 0.600);
