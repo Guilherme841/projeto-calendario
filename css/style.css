@@ -3,7 +3,6 @@
 * {
     margin: 0;
     padding: 0;
-    font-family: Arial, Helvetica, sans-serif;
 }
 
 body,html {
@@ -13,6 +12,10 @@ body,html {
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
+}
+
+header {
+    margin-bottom: 20px;
 }
 
 main {
@@ -62,10 +65,12 @@ main {
 }
 
 .meses {
+    font-family: 'Ubuntu', sans-serif;
     padding: 10px;
     width: 80px;
     border-radius: 10px;
     cursor: pointer;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.315);
 }
 
 a {
@@ -74,12 +79,15 @@ a {
 }
 
 h1 {
-    color: rgba(0, 0, 0, 0.856);
+    font-family: 'Ubuntu', sans-serif;
+    color: rgba(0, 0, 0, 0.623);
     font-size: 3em;
     padding-top: 30px;
     text-align: center;
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.420);
 }
 
 p {
+    font-family: 'Ubuntu', sans-serif;
     text-align: center;
 }

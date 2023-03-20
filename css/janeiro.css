@@ -12,7 +12,6 @@ body,html {
 body {
     background-image: url(../imagens/background-janeiro.jpeg);
     background-size: cover;
-    background-position: center center;
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
