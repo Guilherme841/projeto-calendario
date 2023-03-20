@@ -19,6 +19,7 @@ main {
     margin-bottom: 50px;
     line-height: 1.6em;
     text-shadow: 2px 2px 1px rgba(0, 0, 0, 0.753);
+    font-size: 1em;
 }
 
 #legendaDias {
