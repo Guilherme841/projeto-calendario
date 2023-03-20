@@ -6,11 +6,14 @@
 }
 
 body {
-    height: 100%;
+    
     background-image: url(../imagens/background-janeiro.jpeg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+main {
     padding: 40px;
 }
 
