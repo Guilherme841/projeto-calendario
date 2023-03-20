@@ -5,7 +5,7 @@
     padding: 0;
 }
 
-main {
+body {
     background-image: url(../imagens/background-janeiro.jpeg);
     background-position: center;
     background-repeat: no-repeat;
