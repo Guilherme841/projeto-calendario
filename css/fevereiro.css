@@ -31,10 +31,10 @@ main {
 }
 
 #video {
-    margin: 40px;
+    margin-top: 40px;
 }
 
-iframe {
+div#video > iframe {
     display: block;
     margin: auto;
 }
