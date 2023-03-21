@@ -7,8 +7,8 @@
 
 body,html {
     height: 100vh;
-    background-image: url(../imagens/background-index.jpg);
-    background-position: center right;
+    background-image: url(../imagens/background-index.jpeg);
+    background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -23,11 +23,15 @@ main {
 }
 
 #containerMeses {
-    columns: 2;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 15px;
 }
 
 #containerMeses > div {
-    margin: 5px;
+    margin: auto;
 }
 
 .meses:nth-child(1) {
