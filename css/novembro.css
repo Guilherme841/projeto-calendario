@@ -21,6 +21,15 @@ main {
     padding: 40px;
 }
 
+#video {
+    margin-top: 40px;
+}
+
+div#video > iframe {
+    display: block;
+    margin: auto;
+}
+
 .legenda > p {
     font-family: 'Ubuntu', sans-serif;
     color: #1B6CC2;

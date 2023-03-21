@@ -16,6 +16,15 @@ body {
     background-attachment: fixed;
 }
 
+#video {
+    margin-top: 40px;
+}
+
+div#video > iframe {
+    display: block;
+    margin: auto;
+}
+
 main {
     height: 100vh;
     padding: 40px;

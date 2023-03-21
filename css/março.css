@@ -93,6 +93,15 @@ main {
     height: 100%;
 }
 
+#video {
+    margin-top: 40px;
+}
+
+div#video > iframe {
+    display: block;
+    margin: auto;
+}
+
 #tabela {
     display: grid;
     width: 100%;
