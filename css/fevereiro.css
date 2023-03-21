@@ -30,6 +30,15 @@ main {
     font-size: 1em;
 }
 
+#video {
+    margin: 40px;
+}
+
+iframe {
+    display: block;
+    margin: auto;
+}
+
 #legendaDias {
     font-family: 'Ubuntu', sans-serif;
     margin-top: 50px;
