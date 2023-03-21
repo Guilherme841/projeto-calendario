@@ -23,7 +23,7 @@ main {
 
 .legenda > p {
     font-family: 'Ubuntu', sans-serif;
-    color: rgb(185, 94, 155);
+    color: rgb(158, 70, 129);
     margin-bottom: 50px;
     line-height: 1.6em;
     text-shadow: 3px 2px 2px rgba(0, 0, 0, 0.822);
@@ -37,7 +37,7 @@ main {
 }
 
 #legendaDias > p {
-    color: rgb(185, 94, 155);
+    color: rgb(158, 70, 129);
     padding: 5px;
     text-shadow: 3px 2px 2px rgba(0, 0, 0, 0.822);
 }
