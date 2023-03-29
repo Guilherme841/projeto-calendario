@@ -1,0 +1,94 @@
+.legenda > p {
+    padding-bottom: 30px;
+    border-bottom: 2px solid rgb(90, 90, 90);
+    text-align: justify;
+}
+
+#legendaDias {
+    border-top: 2px solid rgb(90, 90, 90);
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+body {
+    background-image: linear-gradient(to right, #F3B2B0, #aae0d8);
+}
+
+.legenda > p {
+    font-family: 'Ubuntu', sans-serif;
+    /* color: #e72e1d; */
+    color: rgba(0, 0, 0, 0.750);
+    /* color: rgb(235, 235, 235); */
+    margin-bottom: 50px;
+    line-height: 1.6em;
+    text-shadow: 1px 2px 3px rgba(0, 0, 0, 0.250);
+    font-size: 1.1em;
+}
+
+#legendaDias {
+    font-family: 'Ubuntu', sans-serif;
+    margin-top: 50px;
+    text-shadow: 1px 2px 3px rgba(0, 0, 0, 0.250);
+}
+
+#legendaDias > p {
+    font-size: 1.1em;
+    /* color: #e72e1d; */
+    color: rgba(0, 0, 0, 0.750);
+    padding: 5px;
+    text-shadow: 1px 2px 3px rgba(0, 0, 0, 0.250);
+}
+
+video {
+    border-top: 2px solid rgb(90, 90, 90);
+    padding-top: 30px;
+}
+
+@media screen and (min-width: 768px) {
+    body {
+        background-image: linear-gradient(to right, #F3B2B0, #aae0d8);
+        background-color: #333333;
+        /* #F3B2B0 rosa 
+            #B2DBD5 azul */
+    }
+    main {
+        background-color: rgb(252, 238, 238);
+        width: 50vw;
+        margin: auto;
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.275);
+        border-right: 1px solid rgba(128, 128, 128, 0.750);
+        border-left: 1px solid rgba(128, 128, 128, 0.750);
+    }
+    .legenda p {
+        font-size: 1.1em;
+        text-align: justify;
+        color: rgba(0, 0, 0, 0.650);
+        text-shadow: 1px 2px 3px rgba(0, 0, 0, 0.275);
+    }
+    #legendaDias p {
+        font-size: 1.1em;
+        color: rgba(0, 0, 0, 0.650);
+        text-shadow: 1px 2px 3px rgba(0, 0, 0, 0.275);
+    }
+    video {
+        max-width: 500px;
+    }
+    #containerCalendario {
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.285);
+    }
+    video {
+        padding-top: 50px;
+        padding-bottom: 50px;
+        border-top: none;
+    }
+    
+    .legenda > p {
+        padding-bottom: 30px;
+        border-bottom: none;
+    }
+    
+    #legendaDias {
+        border-top: none;
+    }
+}
+
